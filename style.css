@@ -1,0 +1,159 @@
+*{
+    padding: 0px;
+    margin: 0px;
+    font-family: 'Charis SIL', serif;
+}
+.row{
+    display: flex;
+    flex-wrap: wrap;
+}
+span .lo1{
+    color: orange;
+}
+.block1{
+    height: auto;
+    width: 100%;
+}
+.block1 img{
+    height: 400px;
+    width: auto;
+}
+.block2{
+    margin-top: 100px;
+    width: 90%;
+    margin-left: 5%;
+    margin-right: 5%;
+   margin-bottom: 50px;
+}
+.col{
+    width: 30%;
+    margin: auto;
+}
+.about{
+    background: rgb(81, 79, 79);
+}
+footer{
+    border-top: 1px solid rgb(116, 114, 114);
+    box-shadow: 10px 5px 30px black;
+    
+}
+.copy{
+    width: 50%;
+    margin: 30px;
+    color: grey;
+    text-align: center;
+   
+}
+.copy a{
+    color: grey;
+    margin-left: 20px;
+}
+.container{
+    margin-top: 70px;
+}
+button .co1:hover{
+background-color: red;
+}
+
+
+.registration-form {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 500px;
+    color: #fff;
+    font-size: 18px;
+    font-family: sans-serif;
+    
+    padding: 20px;
+  }
+  
+  .registration-form input,
+  .registration-form select,
+  .registration-form textarea {
+    border: none;
+    padding: 5px;
+    margin-top: 10px;
+    font-family: sans-serif;
+  }
+  
+  .registration-form input:focus,
+  .registration-form textarea:focus {
+    outline: none;
+    box-shadow: 0 0 10px rgb(228, 228, 228), 0 0 10px rgb(224, 224, 224);
+  }
+  
+  .registration-form .submit {
+    width: 100%;
+    padding: 8px 0;
+    font-size: 20px;
+    font-weight: 600;
+    color: #333;
+    background-color: #fff;
+    border-radius: 5px;
+  }
+  
+  .registration-form .submit:hover {
+    box-shadow: 0 0 5px rgba(255, 255, 255, 0.5);
+  }
+  .heading{
+   align-items: center;
+    text-decoration: solid;
+     margin-top: 70px;
+    
+  }
+  .heading img{
+    display: block;
+    width: 300px;
+    height: auto;
+    align-items: center;
+    margin-left: 38%;
+ 
+  }
+
+  .pic{
+    border-bottom: 1px solid rgb(116, 114, 114);
+    box-shadow: 1px 1px 30px black;
+    margin-bottom: 50px;
+  }
+  #contact_form{
+    width: 500px;
+    height: auto;
+    align-items: center;
+    margin: auto;
+    margin-bottom: 50px;
+    
+  }
+  .form{
+    border: 2px solid violet;
+    width: 700px;
+    height: 500px;
+    align-items: center;
+    margin-left: 280px;
+    margin-bottom: 50px;
+    border-radius: 5px;
+    background-color: rgb(109, 245, 220);
+    
+  }
+  #contact_form label{
+    padding-top: 30px;
+    
+  }
+  #submit_button{
+    margin-top: 20px;
+    background-color: rgb(248, 126, 201);
+    padding: 5px 10px;
+    border-radius: 5px;
+    
+  }
+ .input{
+    border-radius: 5px;
+    margin-top: 5px;
+  }
+.apic{
+    height: 300px;
+    width: 100%;
+   border-bottom: 1px solid dodgerblue;
+    box-shadow:10px 10px 80px rgb(84, 161, 239);
+}
+
